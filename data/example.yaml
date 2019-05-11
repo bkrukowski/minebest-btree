@@ -1,0 +1,552 @@
+-
+    id: 1
+    username: berryPowerPoland82
+    leftCredits: 1869
+    rightCredits: 5807
+    leftNodeId: 2
+    rightNodeId: 41
+    is_root: true
+-
+    id: 2
+    username: berryFruitAustralia82
+    leftCredits: 6639
+    rightCredits: 6749
+    leftNodeId: 3
+    rightNodeId: 20
+    is_root: false
+-
+    id: 3
+    username: berryColorUAE80
+    leftCredits: 3814
+    rightCredits: 9610
+    leftNodeId: 4
+    rightNodeId: null
+    is_root: false
+-
+    id: 4
+    username: coconutFruitUK92
+    leftCredits: 808
+    rightCredits: 6145
+    leftNodeId: 5
+    rightNodeId: 11
+    is_root: false
+-
+    id: 5
+    username: berryTasteUAE84
+    leftCredits: 3456
+    rightCredits: 9590
+    leftNodeId: 6
+    rightNodeId: 10
+    is_root: false
+-
+    id: 6
+    username: pineappleTasteUK89
+    leftCredits: 6939
+    rightCredits: 7601
+    leftNodeId: 7
+    rightNodeId: null
+    is_root: false
+-
+    id: 7
+    username: coconutEnergyUSA84
+    leftCredits: 8845
+    rightCredits: 8112
+    leftNodeId: 8
+    rightNodeId: 9
+    is_root: false
+-
+    id: 8
+    username: coconutEnergyPoland88
+    leftCredits: 1932
+    rightCredits: 7454
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 9
+    username: applePowerPoland83
+    leftCredits: 9015
+    rightCredits: 6425
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 10
+    username: lemonColorUK98
+    leftCredits: 1019
+    rightCredits: 3891
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 11
+    username: coconutPowerAustralia86
+    leftCredits: 8853
+    rightCredits: 6642
+    leftNodeId: 12
+    rightNodeId: 15
+    is_root: false
+-
+    id: 12
+    username: lemonEnergyPoland87
+    leftCredits: 4223
+    rightCredits: 5789
+    leftNodeId: null
+    rightNodeId: 13
+    is_root: false
+-
+    id: 13
+    username: lemonEnergyPoland81
+    leftCredits: 6089
+    rightCredits: 734
+    leftNodeId: null
+    rightNodeId: 14
+    is_root: false
+-
+    id: 14
+    username: berryColorPoland83
+    leftCredits: 3685
+    rightCredits: 8053
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 15
+    username: lemonFruitPoland96
+    leftCredits: 9315
+    rightCredits: 4797
+    leftNodeId: 16
+    rightNodeId: 18
+    is_root: false
+-
+    id: 16
+    username: coconutEnergyPoland89
+    leftCredits: 8890
+    rightCredits: 7219
+    leftNodeId: 17
+    rightNodeId: null
+    is_root: false
+-
+    id: 17
+    username: appleTastePoland95
+    leftCredits: 5937
+    rightCredits: 7237
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 18
+    username: berryColorAustralia86
+    leftCredits: 3027
+    rightCredits: 8346
+    leftNodeId: null
+    rightNodeId: 19
+    is_root: false
+-
+    id: 19
+    username: coconutFruitUAE86
+    leftCredits: 1580
+    rightCredits: 9955
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 20
+    username: berryPowerAustralia88
+    leftCredits: 4226
+    rightCredits: 6737
+    leftNodeId: null
+    rightNodeId: 21
+    is_root: false
+-
+    id: 21
+    username: appleFruitPoland90
+    leftCredits: 8179
+    rightCredits: 5003
+    leftNodeId: 22
+    rightNodeId: 28
+    is_root: false
+-
+    id: 22
+    username: pineappleColorUAE81
+    leftCredits: 7614
+    rightCredits: 6430
+    leftNodeId: 23
+    rightNodeId: 24
+    is_root: false
+-
+    id: 23
+    username: lemonEnergyUK84
+    leftCredits: 854
+    rightCredits: 7025
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 24
+    username: pineappleEnergyUSA89
+    leftCredits: 7709
+    rightCredits: 6879
+    leftNodeId: 25
+    rightNodeId: null
+    is_root: false
+-
+    id: 25
+    username: coconutEnergyAustralia93
+    leftCredits: 597
+    rightCredits: 2019
+    leftNodeId: 26
+    rightNodeId: 27
+    is_root: false
+-
+    id: 26
+    username: pineappleEnergyUAE84
+    leftCredits: 7019
+    rightCredits: 1011
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 27
+    username: appleColorUSA97
+    leftCredits: 9256
+    rightCredits: 8005
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 28
+    username: berryEnergyAustralia81
+    leftCredits: 3938
+    rightCredits: 7813
+    leftNodeId: 29
+    rightNodeId: 34
+    is_root: false
+-
+    id: 29
+    username: berryTasteUSA80
+    leftCredits: 2080
+    rightCredits: 552
+    leftNodeId: 30
+    rightNodeId: 31
+    is_root: false
+-
+    id: 30
+    username: berryTasteUAE85
+    leftCredits: 1455
+    rightCredits: 3339
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 31
+    username: pineappleEnergyUAE88
+    leftCredits: 1155
+    rightCredits: 7061
+    leftNodeId: 32
+    rightNodeId: 33
+    is_root: false
+-
+    id: 32
+    username: lemonPowerUSA99
+    leftCredits: 6458
+    rightCredits: 2758
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 33
+    username: lemonTasteUAE95
+    leftCredits: 1273
+    rightCredits: 4814
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 34
+    username: coconutEnergyUSA95
+    leftCredits: 3363
+    rightCredits: 9812
+    leftNodeId: 35
+    rightNodeId: 38
+    is_root: false
+-
+    id: 35
+    username: berryEnergyPoland95
+    leftCredits: 1286
+    rightCredits: 7217
+    leftNodeId: 36
+    rightNodeId: 37
+    is_root: false
+-
+    id: 36
+    username: coconutColorUSA95
+    leftCredits: 1169
+    rightCredits: 4930
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 37
+    username: appleEnergyUK95
+    leftCredits: 8102
+    rightCredits: 431
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 38
+    username: coconutPowerUSA80
+    leftCredits: 7795
+    rightCredits: 2189
+    leftNodeId: 39
+    rightNodeId: 40
+    is_root: false
+-
+    id: 39
+    username: pineappleFruitUK91
+    leftCredits: 8700
+    rightCredits: 1003
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 40
+    username: coconutEnergyUSA89
+    leftCredits: 817
+    rightCredits: 3122
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 41
+    username: pineappleEnergyAustralia83
+    leftCredits: 7919
+    rightCredits: 1841
+    leftNodeId: 42
+    rightNodeId: null
+    is_root: false
+-
+    id: 42
+    username: pineappleEnergyAustralia92
+    leftCredits: 4748
+    rightCredits: 7596
+    leftNodeId: 43
+    rightNodeId: 55
+    is_root: false
+-
+    id: 43
+    username: lemonPowerUAE82
+    leftCredits: 5176
+    rightCredits: 1157
+    leftNodeId: null
+    rightNodeId: 44
+    is_root: false
+-
+    id: 44
+    username: appleColorUSA85
+    leftCredits: 1132
+    rightCredits: 621
+    leftNodeId: 45
+    rightNodeId: 52
+    is_root: false
+-
+    id: 45
+    username: appleEnergyUK96
+    leftCredits: 655
+    rightCredits: 4407
+    leftNodeId: 46
+    rightNodeId: 49
+    is_root: false
+-
+    id: 46
+    username: appleEnergyAustralia82
+    leftCredits: 2950
+    rightCredits: 7187
+    leftNodeId: 47
+    rightNodeId: 48
+    is_root: false
+-
+    id: 47
+    username: lemonEnergyPoland80
+    leftCredits: 8348
+    rightCredits: 7568
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 48
+    username: pineappleTasteAustralia97
+    leftCredits: 6504
+    rightCredits: 8373
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 49
+    username: berryFruitUAE99
+    leftCredits: 3221
+    rightCredits: 5446
+    leftNodeId: 50
+    rightNodeId: 51
+    is_root: false
+-
+    id: 50
+    username: applePowerUAE99
+    leftCredits: 3776
+    rightCredits: 4924
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 51
+    username: lemonTastePoland85
+    leftCredits: 7970
+    rightCredits: 7567
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 52
+    username: pineappleFruitUSA86
+    leftCredits: 8270
+    rightCredits: 420
+    leftNodeId: null
+    rightNodeId: 53
+    is_root: false
+-
+    id: 53
+    username: lemonPowerPoland91
+    leftCredits: 6949
+    rightCredits: 8145
+    leftNodeId: null
+    rightNodeId: 54
+    is_root: false
+-
+    id: 54
+    username: appleTastePoland96
+    leftCredits: 5721
+    rightCredits: 6712
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 55
+    username: berryTasteUSA85
+    leftCredits: 6782
+    rightCredits: 8969
+    leftNodeId: 56
+    rightNodeId: 60
+    is_root: false
+-
+    id: 56
+    username: berryEnergyPoland90
+    leftCredits: 32
+    rightCredits: 2707
+    leftNodeId: 57
+    rightNodeId: 58
+    is_root: false
+-
+    id: 57
+    username: berryColorPoland82
+    leftCredits: 5255
+    rightCredits: 513
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 58
+    username: coconutPowerAustralia94
+    leftCredits: 26
+    rightCredits: 709
+    leftNodeId: null
+    rightNodeId: 59
+    is_root: false
+-
+    id: 59
+    username: berryEnergyPoland86
+    leftCredits: 9709
+    rightCredits: 2259
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 60
+    username: pineapplePowerUSA93
+    leftCredits: 2612
+    rightCredits: 3815
+    leftNodeId: 61
+    rightNodeId: 65
+    is_root: false
+-
+    id: 61
+    username: applePowerUK85
+    leftCredits: 7124
+    rightCredits: 6312
+    leftNodeId: 62
+    rightNodeId: null
+    is_root: false
+-
+    id: 62
+    username: pineappleEnergyUAE90
+    leftCredits: 7627
+    rightCredits: 8205
+    leftNodeId: 63
+    rightNodeId: 64
+    is_root: false
+-
+    id: 63
+    username: coconutEnergyAustralia96
+    leftCredits: 3012
+    rightCredits: 7228
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 64
+    username: berryPowerPoland92
+    leftCredits: 4175
+    rightCredits: 1648
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 65
+    username: berryColorPoland86
+    leftCredits: 5943
+    rightCredits: 8728
+    leftNodeId: 66
+    rightNodeId: 67
+    is_root: false
+-
+    id: 66
+    username: appleFruitAustralia93
+    leftCredits: 872
+    rightCredits: 15
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 67
+    username: pineappleColorAustralia88
+    leftCredits: 7312
+    rightCredits: 2566
+    leftNodeId: 68
+    rightNodeId: 69
+    is_root: false
+-
+    id: 68
+    username: berryFruitUAE86
+    leftCredits: 1097
+    rightCredits: 5748
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false
+-
+    id: 69
+    username: coconutPowerUK86
+    leftCredits: 6700
+    rightCredits: 6293
+    leftNodeId: null
+    rightNodeId: null
+    is_root: false

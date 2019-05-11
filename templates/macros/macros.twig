@@ -1,0 +1,16 @@
+{% macro displayNode(node) %}
+    {% import _self as macros %}
+    {# @var node \App\Entity\Node #}
+    <p>[{{ node.id }}] {{ node.username }} (leftCredits={{ node.leftCredits }}, rightCredits={{ node.rightCredits }})</p>
+
+    {% if (node.leftNode is not empty) or (node.rightNode is not empty) %}
+        <ul>
+            {% if node.leftNode %}
+                <li>{{ macros.displayNode(node.leftNode) }}</li>
+            {% endif %}
+            {% if node.rightNode %}
+                <li>{{ macros.displayNode(node.rightNode) }}</li>
+            {% endif %}
+        </ul>
+    {% endif %}
+{% endmacro %}

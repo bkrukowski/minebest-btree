@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+
+{% import 'macros/macros.twig' as macros %}
+
+{# @var root \App\Entity\Node #}
+
+{% block body %}
+    <h1>Tree</h1>
+    {% if root is empty %}
+        <p>Nothing to display</p>
+    {% else %}
+        {{ macros.displayNode(root) }}
+    {% endif %}
+{% endblock %}

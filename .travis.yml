@@ -1,0 +1,14 @@
+language: php
+
+php:
+    - 7.1
+
+install:
+    - travis_retry composer update --no-interaction --prefer-stable
+    - composer show
+    - export PHP_CS_FIXER="./dev-tools/vendor/bin/php-cs-fixer"
+    - cd dev-tools; travis_retry composer update; cd ..
+
+script:
+    - ${PHP_CS_FIXER} fix src --rules=@Symfony,@PSR1,native_constant_invocation,native_function_invocation,declare_strict_types --allow-risky=yes --dry-run --diff
+
